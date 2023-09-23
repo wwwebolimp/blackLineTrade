@@ -456,6 +456,10 @@ video {
   width: 40px;
 }.min-w-\[130px\]{
   min-width: 130px;
+}.min-w-\[26px\]{
+  min-width: 26px;
+}.min-w-\[32px\]{
+  min-width: 32px;
 }.max-w-\[450px\]{
   max-width: 450px;
 }.max-w-\[485px\]{
