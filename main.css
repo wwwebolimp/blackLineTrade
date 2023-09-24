@@ -472,6 +472,10 @@ video {
   max-width: 690px;
 }.max-w-\[730px\]{
   max-width: 730px;
+}.flex-\[0_0_26px\]{
+  flex: 0 0 26px;
+}.flex-\[0_0_32px\]{
+  flex: 0 0 32px;
 }.origin-bottom{
   transform-origin: bottom;
 }.translate-x-\[-50\%\]{
