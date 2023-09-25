@@ -649,7 +649,7 @@ video {
   background-color: rgb(238 238 238 / var(--tw-bg-opacity));
   font-family: Rubik, sans-serif;
   line-height: 1.5;
-  opacity: 0;transition:opacity .5s ease;
+  opacity: 0;transition:opacity .5s linear;
 }body.loaded{opacity:1}body.lock{overflow:hidden}.btn-primary{
   display: inline-block;
   border-radius: var(--border-radius-s);
